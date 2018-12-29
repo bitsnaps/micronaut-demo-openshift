@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: hello.maven
+---
+testFramework: junit
+sourceLanguage: java
